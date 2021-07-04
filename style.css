@@ -160,3 +160,8 @@ border-image: linear-gradient(blue, salmon);
 border-image-slice: 1;
 border-image-repeat: space;
 }
+#junior{
+border-left: 10px solid;
+border-image: linear-gradient(blue, salmon);
+border-image-slice: 1;
+}
