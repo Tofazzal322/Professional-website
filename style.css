@@ -22,4 +22,39 @@ padding: 10px 15px;
 align-items: flex-end;
 border-radius: 5px;
 text-align: left;
+text-underline-position: unset;
+}
+.top-banner{
+display: flex;
+size: 50%;
+
+}
+.top-banner img {
+width: 500px;
+size: 30%;
+align-items: center;
+}
+.title{
+color: tomato;
+font-size: 2rem;
+}
+
+.title-2{
+color: turquoise;
+font-family: sans-serif;
+font-weight: 700;
+}
+p{
+font-display: 50%;
+font-size: 17px;
+font-weight: 500;
+
+}
+.dream-area{
+display: flex;
+padding-left: 10px;
+margin-left: 20px;
+}
+.dream-area img {
+width: 70%;
 }
